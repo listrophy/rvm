@@ -29,7 +29,7 @@
 
 #### Upgraded Ruby interpreters:
 * Add support for JRuby 9.1.6.0 [\#3805](https://github.com/rvm/rvm/issues/3805)
-* Add support for Ruby 2.2.6, 2.3.2 [\#3808](https://github.com/rvm/rvm/issues/3808), 2.3.3 [\#3819](https://github.com/rvm/rvm/issues/3819) and 2.4.0-preview3
+* Add support for Ruby 2.2.6, 2.3.2 [\#3808](https://github.com/rvm/rvm/issues/3808), 2.3.3 [\#3819](https://github.com/rvm/rvm/issues/3819), 2.4.0-preview3 and 2.4.0-rc1
 * Add support for Rubinius 3.69
 * Drop support for GoRuby [\#3786](https://github.com/rvm/rvm/issues/3786)
 * Upgrade RubyGems to 2.6.8
